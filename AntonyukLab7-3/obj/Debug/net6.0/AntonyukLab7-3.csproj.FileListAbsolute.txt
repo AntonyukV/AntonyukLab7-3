@@ -1,0 +1,14 @@
+C:\Program Files\Visual Studio\AntonyukLab7-3\AntonyukLab7-3\bin\Debug\net6.0\AntonyukLab7-3.exe
+C:\Program Files\Visual Studio\AntonyukLab7-3\AntonyukLab7-3\bin\Debug\net6.0\AntonyukLab7-3.deps.json
+C:\Program Files\Visual Studio\AntonyukLab7-3\AntonyukLab7-3\bin\Debug\net6.0\AntonyukLab7-3.runtimeconfig.json
+C:\Program Files\Visual Studio\AntonyukLab7-3\AntonyukLab7-3\bin\Debug\net6.0\AntonyukLab7-3.dll
+C:\Program Files\Visual Studio\AntonyukLab7-3\AntonyukLab7-3\bin\Debug\net6.0\AntonyukLab7-3.pdb
+C:\Program Files\Visual Studio\AntonyukLab7-3\AntonyukLab7-3\obj\Debug\net6.0\AntonyukLab7-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Visual Studio\AntonyukLab7-3\AntonyukLab7-3\obj\Debug\net6.0\AntonyukLab7-3.AssemblyInfoInputs.cache
+C:\Program Files\Visual Studio\AntonyukLab7-3\AntonyukLab7-3\obj\Debug\net6.0\AntonyukLab7-3.AssemblyInfo.cs
+C:\Program Files\Visual Studio\AntonyukLab7-3\AntonyukLab7-3\obj\Debug\net6.0\AntonyukLab7-3.csproj.CoreCompileInputs.cache
+C:\Program Files\Visual Studio\AntonyukLab7-3\AntonyukLab7-3\obj\Debug\net6.0\AntonyukLab7-3.dll
+C:\Program Files\Visual Studio\AntonyukLab7-3\AntonyukLab7-3\obj\Debug\net6.0\refint\AntonyukLab7-3.dll
+C:\Program Files\Visual Studio\AntonyukLab7-3\AntonyukLab7-3\obj\Debug\net6.0\AntonyukLab7-3.pdb
+C:\Program Files\Visual Studio\AntonyukLab7-3\AntonyukLab7-3\obj\Debug\net6.0\AntonyukLab7-3.genruntimeconfig.cache
+C:\Program Files\Visual Studio\AntonyukLab7-3\AntonyukLab7-3\obj\Debug\net6.0\ref\AntonyukLab7-3.dll
